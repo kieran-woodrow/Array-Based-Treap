@@ -1,7 +1,7 @@
 
 # 🏷️ Project Name
 
-Implementation of a treap
+Implementation of a treap using an array
 
 ---
 ## 🗂️ Table Of Contents
